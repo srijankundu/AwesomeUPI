@@ -3,6 +3,7 @@ A curated list of awesome UPI (Unified Payment Interface) resources.
 
 - Awesome UPI
   - [Wikipedia](https://en.wikipedia.org/wiki/Unified_Payments_Interface)
+  - [NPCI](http://www.npci.org.in/UPI_Background.aspx) - National Payments Corporation of India
   
 ## Banks live as PSP and Issuer
 
