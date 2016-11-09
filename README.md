@@ -21,7 +21,7 @@ A curated list of awesome UPI (Unified Payment Interface) resources.
 * DCB Bank | [Android](https://play.google.com/store/apps/details?id=com.olive.dcb.upi)
 * Karnataka Bank
 * United Bank of India
-* Vijaya Bank | [Android}(https://play.google.com/store/apps/details?id=com.fss.vijayapsp)
+* Vijaya Bank | [Android](https://play.google.com/store/apps/details?id=com.fss.vijayapsp)
 * Oriental Bank of Commerce
 * TJSB
 * Federal Bank
