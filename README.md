@@ -7,7 +7,7 @@ A curated list of awesome UPI (Unified Payment Interface) resources.
   
 ## Banks live as PSP and Issuer
 
-*Link to the bank app or website.*
+*Link to the [bank](http://www.npci.org.in/UPI_Livemembers.aspx) app or website.*
 
 * [HDFC](https://play.google.com/store/apps/details?id=com.snapwork.hdfc&hl=en) - UPI (Unified Payment Interface) is now enable in MobileBanking App. Now you can Pay & Collect funds just by using Virtual Payment Address.
 * Andhra Bank
