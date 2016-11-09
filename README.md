@@ -42,3 +42,7 @@ A curated list of awesome UPI (Unified Payment Interface) resources.
 Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/fostinno/AwesomeUPI/blob/master/CONTRIBUTING.md) first.
 
 I will keep some pull requests open if I'm not sure whether those resources are awesome, you could [vote for them](https://github.com/fostinno/AwesomeUPI/pulls) by adding :+1: to them. Pull requests will be merged when their votes reach **5**.
+
+Thanks.
+
+Mahesh Yadav | [Fb](http://facebook.com/maheshkumaryadav)  |  [Twitter](http://twitter.com/maheshyadav)
