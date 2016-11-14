@@ -17,7 +17,7 @@ A curated list of awesome UPI (Unified Payment Interface) resources.
 * Axis Bank | [Android](https://play.google.com/store/apps/details?id=com.upi.axispay)
 * Bank of Maharashtra | [Android](https://play.google.com/store/apps/details?id=com.infrasofttech.mahaupi)
 * Canara Bank | [Android](https://play.google.com/store/apps/details?id=upi.npst.com.upicanara)
-* Catholic Syrian Bank
+* Catholic Syrian Bank | [Android](https://play.google.com/store/apps/details?id=com.lcode.csbupi)
 * DCB Bank | [Android](https://play.google.com/store/apps/details?id=com.olive.dcb.upi)
 * Karnataka Bank
 * United Bank of India
