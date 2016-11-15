@@ -2,6 +2,7 @@
 A curated list of awesome UPI (Unified Payment Interface) resources.
 
 - Awesome UPI
+  - [Intro Video](https://www.youtube.com/watch?v=JwZWDE3-qQM)
   - [Wikipedia](https://en.wikipedia.org/wiki/Unified_Payments_Interface)
   - [NPCI](http://www.npci.org.in/UPI_Background.aspx) - National Payments Corporation of India
   
