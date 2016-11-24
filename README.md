@@ -6,10 +6,11 @@ A curated list of awesome UPI (Unified Payment Interface) resources.
   - [Wikipedia](https://en.wikipedia.org/wiki/Unified_Payments_Interface)
   - [NPCI](http://www.npci.org.in/UPI_Background.aspx) - National Payments Corporation of India
   
-## Banks live as PSP and Issuer
+## Banks live and their app
 
 *Link to the [bank](http://www.npci.org.in/UPI_Livemembers.aspx)  MobileBanking App or website, where UPI (Unified Payment Interface) is now enabled, such that you can Pay & Collect funds just by using Virtual Payment Address.* 
 
+* State Bank of India | [Android] (http://play.google.com/store/apps/details?id=com.sbi.upi)
 * HDFC | [Android] (https://play.google.com/store/apps/details?id=com.snapwork.hdfc&hl=en)
 * ICICI Bank | [Android](https://play.google.com/store/apps/details?id=com.icici.eazypaycollect) - UPI Collect
 * Punjab National Bank | [Android](https://play.google.com/store/apps/details?id=com.fss.pnbpsp)
@@ -28,9 +29,6 @@ A curated list of awesome UPI (Unified Payment Interface) resources.
 * Federal Bank
 * UCO Bank | [Android](https://play.google.com/store/apps/details?id=com.lcode.ucoupi)
 * South Indian Bank | [Android](https://play.google.com/store/apps/details?id=com.paymate.sib)
-
-## Banks live as Issuer:
-
 * Yes Bank
 * RBL Bank | [Android](https://play.google.com/store/apps/details?id=com.rblbank.mobank)
 * IDFC Bank
