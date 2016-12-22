@@ -22,7 +22,7 @@ A curated list of awesome UPI (Unified Payment Interface) resources.
 * Catholic Syrian Bank | [Android](https://play.google.com/store/apps/details?id=com.lcode.csbupi)
 * DCB Bank | [Android](https://play.google.com/store/apps/details?id=com.olive.dcb.upi)
 * Karnataka Bank
-* United Bank of India
+* United Bank of India | [Android](https://play.google.com/store/apps/details?id=com.fss.unbipsp)
 * Vijaya Bank | [Android](https://play.google.com/store/apps/details?id=com.fss.vijayapsp)
 * Oriental Bank of Commerce | [Andorid](https://play.google.com/store/apps/details?id=com.mgs.obcbank)
 * TJSB
